@@ -1,5 +1,5 @@
-# salam-dunya
-"salam-dunya" means "hello-world"
+# salaam-dunya
+"salaam-dunya" means "hello-world"
 
 Assalam-o-Alaikum Parhnay Walon!
 
