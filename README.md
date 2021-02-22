@@ -4,4 +4,4 @@
 Hello, readers!
 Assalaam-o-Alaikum, Parhnay Walon!
 
-- Daniyal
+Daniyal
