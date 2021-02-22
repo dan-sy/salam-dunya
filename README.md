@@ -4,4 +4,4 @@
 Hello, readers!
 Assalaam-o-Alaikum, Parhnay Walon!
 
-Daniyal here, aka "syed-dan".
+- Daniyal
